@@ -1,32 +1,9 @@
 theme:          NES BOX Theme designed by Travis Wilson (Super Retropie and Retro Gaming)
+Edited by RetroBenny for use with RG351V. Backgrounds have been changed to include backdrops from each theme. New Systems have also been added. 
 
-facebook:		www.facebook.com/groups/superretropie
-
-twitter:		www.twitter.com/superretropie
-
-email:			superretropieretrogaming@gmail.com
-
-version         1.8
 
 ------------------------------------------------------------------------------------------
 
-License
-
-This theme is being actively developed, a great deal of work has been put into the theme and art so please do not use the graphics I have created in other projects.
-
-You are free to modify the theme for your personal use only - please do not share modified versions of this theme.
-
-Commercial distribution is prohibited
-
-------------------------------------------------------------------------------------------
-
-Travis Wilson / Super Retropie and Retro Gaming / made this theme. 
-
-This theme is not for use with any kind of loaded images. 
-
-This theme is not for use with anything Supreme Retro Gaming related.
-
-------------------------------------------------------------------------------------------
 
 Supported Systems and Custom Collections
 
@@ -499,5 +476,8 @@ zmachine
 zx81
 
 zxspectrum
+
+RetroPie
+
 
 ** there is a launching image folder with a launching.png inside to match the theme
